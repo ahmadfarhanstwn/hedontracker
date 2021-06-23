@@ -4,4 +4,4 @@ Ini adalah projek expense dan income tracker sederhana yang dibuat menggunakan R
 
 Pada program ini juga, saya menggunakan material-ui untuk memperindah UI.
 
-Demo['https://hedontracker.netlify.app/']
+[Demo]('https://hedontracker.netlify.app/')
